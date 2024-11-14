@@ -15,13 +15,13 @@
 lone the repository
 
 ```bash
-git clone git@github.com:Ja-yy/Invoice-excreter-bot-llm.git
+git clone https://github.com/kalita278/Invoice-Extractor-App-LLM.git
 ```
 
 Create a virtual environment using Pipenv:
 
 ```bash
-pipenv install
+pip env install
 ```
 
 Start Streamlit server:

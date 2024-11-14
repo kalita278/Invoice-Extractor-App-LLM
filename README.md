@@ -12,7 +12,7 @@
 - LangChain
 
 ## How to Use it
-lone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/kalita278/Invoice-Extractor-App-LLM.git

@@ -26,7 +26,7 @@ pip env install
 
 Start Streamlit server:
 ```bash
-streamlit run main.py 
+streamlit run app.py 
 ```
 
 Now, go to [localhost:8501](http://localhost:8501/)

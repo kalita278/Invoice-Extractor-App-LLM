@@ -21,7 +21,7 @@ git clone https://github.com/kalita278/Invoice-Extractor-App-LLM.git
 Create a virtual environment using Pipenv:
 
 ```bash
-pip env install
+pipenv install
 ```
 
 Start Streamlit server:

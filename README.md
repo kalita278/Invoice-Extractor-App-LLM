@@ -10,4 +10,23 @@
 - Streamlit
 - Gemini
 - LangChain
-- 
+
+## How to Use it
+lone the repository
+
+```bash
+git clone git@github.com:Ja-yy/Invoice-excreter-bot-llm.git
+```
+
+Create a virtual environment using Pipenv:
+
+```bash
+pipenv install
+```
+
+Start Streamlit server:
+```bash
+streamlit run main.py 
+```
+
+Now, go to [localhost:8501](http://localhost:8501/)
